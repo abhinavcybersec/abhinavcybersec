@@ -38,9 +38,6 @@
   - Configured event ingestion for over 1,000 logs, simulating privilege escalation and lateral movement attacks.  
   - Gained hands-on experience in domain environments, telemetry generation, and cybersecurity analysis.  
 
-### **Real-Time News Website** *(Dec 2024)*  
-- Built a full-stack application using the **MERN Stack** with encrypted authentication, an admin portal, and robust backend systems for data handling.
-
 ---
 
 ## 🧑‍💻 **Professional Experience**  
@@ -59,7 +56,9 @@
 
 ### Diploma in Computer Programming *(May 2023 – Dec 2024)*  
 **Georgian College, Ontario, Canada**  
-- Focused on Python, MERN Stack, Java, Object-Oriented Programming, SQL, and Cloud Computing.  
+- Focused on Python, MERN Stack, Java, Object-Oriented Programming, SQL, and Cloud Computing.
+- ### **Real-Time News Website** *(Dec 2024)*  
+  - Built a full-stack application using the **MERN Stack** with encrypted authentication, an admin portal, and robust backend systems for data handling.
 
 ---
 
