@@ -31,12 +31,21 @@
 
 ## 🔍 **Highlighted Projects**  
 
-### **Active Directory Home Lab** *(Jan 2025 – In Progress)*  
+### **Active Directory Home Lab** *(Jan 2025)*  
 - **Objective:** Simulating real-world attack scenarios to enhance cybersecurity detection and defense skills.  
 - **Details:**  
   - Set up an Active Directory environment with Splunk, Kali Linux, and Atomic Red Team.  
   - Configured event ingestion for over 1,000 logs, simulating privilege escalation and lateral movement attacks.  
-  - Gained hands-on experience in domain environments, telemetry generation, and cybersecurity analysis.  
+  - Gained hands-on experience in domain environments, telemetry generation, and cybersecurity analysis.
+  - 
+### GoPhish-Simulation *(Feb 2025)*  
+- **Objective:** Conducting a phishing simulation to understand social engineering tactics and email security bypass techniques.  
+-  **Details**  
+  - Configured **GoPhish** with an SMTP server to send phishing emails.  
+  - Used a **Facebook email template** and designed an **exact replica** of the Facebook login page using **HTML & CSS**.  
+  - Created a phishing campaign targeting a test account to analyze user interactions and success rates.  
+  - Bypassed SPF checks using a spoofed sender address (**admin@facebook.com**).  
+  - Strengthened skills in **phishing attack simulation, HTML/CSS web design, and security awareness**.  
 
 ---
 
